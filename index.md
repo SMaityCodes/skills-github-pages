@@ -1,4 +1,4 @@
-# My Git WebHome 🔒
+# My Git WebHome 🔧
 
 A privacy-preserving smart lock system that uses zero-knowledge proofs to verify identity without revealing personal data.
 
